@@ -56,7 +56,9 @@ Now let's review some of the training parameters within this template. For the s
 
 #### Bench Press Parameters for the Standard Template (dynamic, max effort and repetition)
 
-*Dynamic bench press* – 8 sets of 3 repetitions; all sets done are done with 55% of raw 1RM. Rest periods are approximately 60 seconds, but have never really seen the purpose of this, personally. The whole goal of speed day is to move the bar quickly on the concentric. If you need to take an extra minute to accomplish the goal of the day, then by all means, do so. Also, don't get too hung up on changing your grips. The only reason why I changed my grip on this day was to keep track of the number of sets I was doing. Again, remember why you are doing what you are doing.
+*Dynamic bench press* – 8 sets of 3 repetitions; all sets done are done with 55% of raw 1RM. Rest periods are approximately 60 seconds, but have never really seen the purpose of this, personally. The whole goal of speed day is to move the bar quickly on the concentric. If you need to take an extra minute to accomplish the goal of the day, then by all means, do so. 
+
+Also, don't get too hung up on changing your grips. The only reason why I changed my grip on this day was to keep track of the number of sets I was doing. Again, remember why you are doing what you are doing.
 
 *Max effort bench press* – this includes a variety of exercises, but the most important are the [floor press](http://www.bodybuilding.com/exercises/detail/view/name/floor-press), [2 board press](http://train.elitefts.com/exercises-by-body-part/pecs-exercises-by-body-part/2-board-press/), [3 board press](http://asp.elitefts.net/qa/default.asp?qid=37555), [incline press](http://www.bodybuilding.com/fun/schultz51.htm) and close grip bench press. 
 
@@ -66,7 +68,9 @@ On max effort bench press day, you pick one of these exercises and work to a 1RM
 
 *Shoulders* – this is similar to the triceps in that there is a high intensity and low intensity day. The high intensity day is technically not high intensity, but high stress. In this category, I would put dumbbell bench press, dumbbell incline presses, military presses (with dumbbells or a straight bar) and dumbbell floor presses. In the low stress category, front raises, side raises and rear raises are good choices. Again, you can choose which day to put them on, but I liked putting the high stress shoulder training on dynamic bench day.
 
-*Lats/Upper back* – Both days are devoted to lats and upper back and both are done with low intensity, high volume. The way that I worked this is that on Sunday, I would do lat work (usually a row or a pull-up) and no upper back work. On Wednesday, I would do another lat workout (but with a different exercise) and my low stress shoulder work would consist of a rear raise, face pull or a seated dumbbell power clean. So essentially, on the low stress shoulder day, I would kill two birds with one stone: an upper back exercise with a low stress shoulder movement. I did this because I never did front raises or side raises and felt that I got enough stimulation from my other work. It's not gospel, but it's something to think about.
+*Lats/Upper back* – Both days are devoted to lats and upper back and both are done with low intensity, high volume. The way that I worked this is that on Sunday, I would do lat work (usually a row or a pull-up) and no upper back work. On Wednesday, I would do another lat workout (but with a different exercise) and my low stress shoulder work would consist of a rear raise, face pull or a seated dumbbell power clean. 
+
+So essentially, on the low stress shoulder day, I would kill two birds with one stone: an upper back exercise with a low stress shoulder movement. I did this because I never did front raises or side raises and felt that I got enough stimulation from my other work. It's not gospel, but it's something to think about.
 
 #### Squat and Deadlift Parameters for the Standard Template
 
@@ -94,13 +98,15 @@ Again, you want to hit around 3 lifts at or above 90% of your 1RM for that day. 
 
 *Hamstrings* – now here is where things get tricky. Unlike the shoulders/triceps routine of high intensity/low intensity, many people are weak at such exercises as the glute ham raise that they simply need to do the exercise and not worry so much about sets/reps. If you don't fall into this category, you can do bodyweight glute ham raises on one day, and on the other day, you can add a band or a plate for resistance.
 
-*Low Back* – Again, we cannot really isolate the lower back without hitting the glutes and hamstrings. But you can pick from exercises such as back raises, 45 degree back raises, Reverse Hyperextensions, pull-throughs and good mornings. Depending on how you do some of these exercises (i.e. with a great amount of intensity) you can use ONE of these for your hamstring and low back exercise. For example, good mornings can be done for both. If you were to pick reverse hyperextensions or pull-throughs, then you can get away with doing an extra hamstring exercise. Some people can train their lower back twice a week, others cannot. A good way to do this is to pick one "easy" exercise (R.H., pull-throughs, un-weighted back raises or band good mornings) on one day and pick a heavier exercise on the second lower body training day.
+*Low Back* – Again, we cannot really isolate the lower back without hitting the glutes and hamstrings. But you can pick from exercises such as [back raises](http://www.menshealth.com/fitness/back-raise-workout), [45-degree back raises](http://www.exrx.net/WeightExercises/Hamstrings/BB45HipExtension.html), [reverse hyperextensions](http://www.exrx.net/WeightExercises/GluteusMaximus/BWReverseHyperextension.html), [pull-throughs](http://train.elitefts.com/exercises-by-body-part/delts-exercises-by-body-part/pull-through/) and [good mornings](http://www.exrx.net/WeightExercises/Hamstrings/BBGoodMorning.html). Depending on how you do some of these exercises (i.e. with a great amount of intensity) you can use ONE of these for your hamstring and low back exercise. 
 
-*Abdominals* – These are usually trained heavy twice a week in the standard template. Some good exercises to choose from weighted sit ups, Roman Chair sit-ups, stability ball, hanging leg raises, side bends. This is not very complicated but you just need to do them; that's usually the hardest part.
+For example, good mornings can be done for both. If you were to pick reverse hyperextensions or pull-throughs, then you can get away with doing an extra hamstring exercise. Some people can train their lower back twice a week, others cannot. A good way to do this is to pick one "easy" exercise (R.H., pull-throughs, un-weighted back raises or band good mornings) on one day and pick a heavier exercise on the second lower body training day.
 
-So let's go over the pro's and con's of the standard template:
+*Abdominals* – These are usually trained heavy twice a week in the standard template. Some good exercises to choose from weighted sit ups, [Roman Chair sit-ups](http://www.exrx.net/WeightExercises/HipFlexors/WtRomanChairSitup.html), stability ball, hanging leg raises, side bends. This is not very complicated but you just need to do them; that's usually the hardest part.
 
-#### Pro's of the Standard Template:
+So let's go over the pros and cons of the standard template:
+
+#### Pros of the Standard Template:
 
 *Variation*: Because you are doing a variety of exercises on max effort day, it helps keep things fresh and keeps you motivated. Plus most people have never done board presses, floor presses or box squats before trying the standard template, so there are a lot of new exercises being utilized.
 
